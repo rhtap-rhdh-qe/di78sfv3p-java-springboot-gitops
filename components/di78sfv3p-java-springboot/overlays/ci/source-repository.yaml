@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: di78sfv3p-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/di78sfv3p-java-springboot
